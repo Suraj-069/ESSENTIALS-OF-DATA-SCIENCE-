@@ -10,7 +10,11 @@ https://preskilet.com/202401040060@mitaoe.ac.in
 <br>
 [cisco certificate 2.pdf](https://github.com/user-attachments/files/20028941/cisco.certificate.2.pdf)
 <br>
-3.EDS Laboratory assignments(codetantra)
+3.problem solving on pandas and numpy
+<br>
+[EDS theory assi 1.pdf](https://github.com/user-attachments/files/20034757/EDS.theory.assi.1.pdf)
+<br>
+4.EDS Laboratory assignments(codetantra)
 <br>
 ![EDS theory complition (codetantra)](https://github.com/user-attachments/assets/22abbbd3-fcf4-4566-a43f-ab8cdc1574ce)
 <br>

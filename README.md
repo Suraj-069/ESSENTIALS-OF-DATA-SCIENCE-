@@ -10,7 +10,7 @@ https://preskilet.com/202401040060@mitaoe.ac.in
 <br>
 [cisco certificate 2.pdf](https://github.com/user-attachments/files/20028941/cisco.certificate.2.pdf)
 <br>
-3.problem solving on pandas and numpy
+3.problem solving on pandas and numpy(dataset-ICC Mens T20 Worldcup)
 <br>
 [EDS theory assi 1.pdf](https://github.com/user-attachments/files/20034757/EDS.theory.assi.1.pdf)
 <br>
